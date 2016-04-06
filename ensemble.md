@@ -4,23 +4,31 @@
 
 | Dataset | AUC | Accuracy | Precision@10k | Recall@10k |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Training ROC | 0.81831 | 0.83565 | 0.15500 | 0.01564 |
-| Test ROC | 0.64129 | 0.83608 | 0.15500 | 0.01572 |
+| Training ROC | 0.81167 | 0.83550 | 0.15000 | 0.01513 |
+| Test ROC | 0.63987 | 0.83609 | 0.15530 | 0.01575 |
 
 
 #Feature ranking:
 
 ![](importances.png?raw=true)
 
-1. submission.csv (0.314072)
+1. 0000 Bloody stupid baseline|submission.csv (0.153634)
 
-2. submission2.csv (0.171859)
+2. 0000 Competition Wizard Sample Submission Playground|submission.csv (0.129068)
 
-3. sumb.inclass.prob (0.164113)
+3. 0000 Competition Wizard Sample Submission Playground|submission2.csv (0.127909)
 
-4. test_GDC_10_8.csv (0.136898)
+4. 0000 Competition Wizard Sample Submission Playground|sumb.inclass.prob (0.122667)
 
-5. test_RFC_1000_13.csv (0.124052)
+5. 0000 Somewhat stupid baseline|submission2.csv (0.108336)
 
-6. test_RFC_1000_9.csv (0.089005)
+6. 0001 justHeuristic|submission.csv (0.101037)
+
+7. 0001 justHeuristic|submission2.csv (0.078923)
+
+8. 0002   |test_GDC_10_8.csv (0.059945)
+
+9. 0002   |test_RFC_1000_13.csv (0.059642)
+
+10. 0002   |test_RFC_1000_9.csv (0.058840)
 
