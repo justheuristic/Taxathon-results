@@ -1,5 +1,5 @@
-train: 	 AUC = 0.81912 	 Accuracy = 0.84844 	 Precision = 0.78923 	 Recall = 0.01862
-val: 	 AUC = 0.64113 	 Accuracy = 0.84739 	 Precision = 0.59598 	 Recall = 0.01202
+![](roc_curves.png?raw=true)train: 	 AUC = 0.81912 	 Accuracy = 0.83551 	 Precision = 0.15050 	 Recall = 0.01518
+val: 	 AUC = 0.64113 	 Accuracy = 0.83591 	 Precision = 0.14950 	 Recall = 0.01516
 Feature ranking:1. submission.csv (0.323188)
 2. submission2.csv (0.171244)
 3. sumb.inclass.prob (0.155878)
