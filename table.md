@@ -1,4 +1,4 @@
-| Submission | Score |
+| Author | Submission | Score |
 | :---: | ---: |
 | 0000 Somewhat stupid baseline|submission2.csv | 129067663 |
 | 0001 justHeuristic|submission.csv | 59641914 |
