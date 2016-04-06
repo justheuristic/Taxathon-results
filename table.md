@@ -1,4 +1,4 @@
-| Submission | Score |
+<p align="center">| Submission | Score |
 | :---: | ---: |
 | test_RFC_1000_13.csv | 164113375 |
 | submission2.csv | 314072327 |
@@ -6,3 +6,4 @@
 | sumb.inclass.prob | 171858867 |
 | submission.csv | 136898335 |
 | test_RFC_1000_9.csv | 124052448 |
+</p>
