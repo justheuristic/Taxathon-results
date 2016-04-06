@@ -3,8 +3,8 @@
 ![](roc_curves.png?raw=true)
 
 #Ensemble performance| Dataset | AUC | Accuracy | Precision@10k | Recall@10k |
-|:---|:---|:---|:---|:---|:---||train | 0.81831 | 0.83565 | 0.15500 | 0.01564|
-|val | 0.64129 | 0.83608 | 0.15500 | 0.01572|
+| :--- | :--- | :--- | :--- | :--- | :--- || train | 0.81831 | 0.83565 | 0.15500 | 0.01564 |
+| val | 0.64129 | 0.83608 | 0.15500 | 0.01572 |
 
 
 #Feature ranking:
