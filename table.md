@@ -6,7 +6,7 @@
 | 0002   |test_RFC_1000_13.csv |  666 226 |
 | 0001 justHeuristic|submission2.csv |  361 083 |
 | 0002   |test_RFC_1000_9.csv |  370 010 |
-| 0002   |test_GDC_10_8.csv |  226 |
-| 0000 Bloody stupid baseline|submission.csv |  449 |
-| 0001 justHeuristic|submission.csv |  419 |
-| 0000 Competition Wizard Sample Submission Playground|submission.csv |  400 |
+| 0002   |test_GDC_10_8.csv |  226 789 |
+| 0000 Bloody stupid baseline|submission.csv |  449 599 |
+| 0001 justHeuristic|submission.csv |  419 596 |
+| 0000 Competition Wizard Sample Submission Playground|submission.csv |  400 588 |
