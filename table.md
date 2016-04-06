@@ -1,4 +1,4 @@
-| Author | Submission | Score |
+| Author | Submission | Contribution Score |
 | :---:  | :---: | ---: |
 | 0000 Competition Wizard Sample Submission Playground|submission2.csv | 153633747 |
 | 0000 Somewhat stupid baseline|submission2.csv | 129067663 |
