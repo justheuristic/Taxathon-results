@@ -1,16 +1,16 @@
-![](roc_curves.png?raw=true)
-
-![](importances.png?raw=true)
-
 #Ensemble performance
+
+![](roc_curves.png?raw=true)
 
 | Dataset | AUC | Accuracy | Precision@10k | Recall@10k |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| train | 0.81831 | 0.83565 | 0.15500 | 0.01564 |
-| val | 0.64129 | 0.83608 | 0.15500 | 0.01572 |
+| Training ROC | 0.81831 | 0.83565 | 0.15500 | 0.01564 |
+| Test ROC | 0.64129 | 0.83608 | 0.15500 | 0.01572 |
 
 
 #Feature ranking:
+
+![](importances.png?raw=true)
 
 1. submission.csv (0.314072)
 
