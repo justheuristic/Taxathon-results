@@ -1,4 +1,5 @@
 | Submission | Score |
+| --- | --- |
 | test_RFC_1000_13.csv | 157942835 |
 | submission2.csv | 323526263 |
 | test_GDC_10_8.csv | 88528717 |
