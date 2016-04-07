@@ -1,6 +1,6 @@
 #Ensemble performance
 
-![](roc_curves.png?raw=true)
+![](https://raw.githubusercontent.com/justheuristic/Taxathon-results/master/roc_curves.png?raw=true)
 
 | Dataset | AUC | Accuracy | Precision@5k|
 | :--- | :--- | :--- | :--- | :--- |
@@ -10,13 +10,13 @@
 
 #Feature ranking:
 
-![](importances.png?raw=true)
+![](https://github.com/justheuristic/Taxathon-results/blob/master/importances.png?raw=true)
 
-1. Chmel_Tolstiy-1001180|A-1639114-No-compiler-OK.csv (0.283449)
+1. Chmel_Tolstiy-1001180 | A-1639114-No-compiler-OK.csv (0.283449)
 
-2. justHeuristic-989496|A-1639435-No-compiler-OK.csv (0.149513)
+2. justHeuristic-989496 | A-1639435-No-compiler-OK.csv (0.149513)
 
-3. justHeuristic-989496|A-1640016-No-compiler-OK.csv (0.122354)
+3. justHeuristic-989496 | A-1640016-No-compiler-OK.csv (0.122354)
 
 4. Yandex.Taxi | dist (0.122046)
 

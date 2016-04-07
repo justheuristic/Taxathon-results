@@ -1,9 +1,9 @@
 | №    | Author | Submission | Contribution Score |
 | ---: | :---:  | :---: | ---: |
-| 1 | justHeuristic-989496|A-1639435-No-compiler-OK.csv | 283 449 489 |
+| 1 | justHeuristic-989496 | A-1639435-No-compiler-OK.csv | 283 449 489 |
 | 2 | Yandex.Taxi | dist | 149 512 928 |
-| 3 | Chmel_Tolstiy-1001180|A-1639114-No-compiler-OK.csv | 122 353 668 |
-| 4 | justHeuristic-989496|A-1640016-No-compiler-OK.csv | 122 046 174 |
+| 3 | Chmel_Tolstiy-1001180 | A-1639114-No-compiler-OK.csv | 122 353 668 |
+| 4 | justHeuristic-989496 | A-1640016-No-compiler-OK.csv | 122 046 174 |
 | 5 | Yandex.Taxi | lon | 101 074 131 |
 | 6 | Yandex.Taxi | lat | 91 752 925 |
 | 7 | Yandex.Taxi | time_of_day_rel | 81 506 118 |
