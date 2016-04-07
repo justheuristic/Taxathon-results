@@ -4,15 +4,19 @@
 
 | Dataset | AUC | Accuracy | Precision@5k|
 | :--- | :--- | :--- | :--- | :--- |
-| Training | 0.71671 | 0.74782 | 0.74720 |
-| Test | 0.61634 | 0.73917 | 0.64220 |
+| Training | 0.76732 | 0.75199 | 0.81020 |
+| Test | 0.63303 | 0.74199 | 0.67960 |
 
 
 #Feature ranking:
 
 ![](importances.png?raw=true)
 
-1. Chmel_Tolstiy-1001180|A-1639114-No-compiler-OK.csv (0.680270)
+1. Chmel_Tolstiy-1001180|A-1639114-No-compiler-OK.csv (0.473165)
 
-2. justHeuristic-989496|A-1639435-No-compiler-OK.csv (0.319730)
+2. justHeuristic-989496|A-1639435-No-compiler-OK.csv (0.186474)
+
+3. _OriginalFeature_lon (0.172329)
+
+4. _OriginalFeature_lat (0.168032)
 
