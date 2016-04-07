@@ -1,6 +1,6 @@
 #Ensemble performance
 
-![](roc_curves.png?raw=true)
+![](https://raw.githubusercontent.com/justheuristic/Taxathon-results/master/roc_curves.png?raw=true)
 
 | Dataset | AUC | Accuracy | Precision@5k|
 | :--- | :--- | :--- | :--- | :--- |
