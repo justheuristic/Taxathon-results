@@ -16,7 +16,7 @@
 
 2. justHeuristic-989496|A-1639435-No-compiler-OK.csv (0.186474)
 
-3. _OriginalFeature_lon (0.172329)
+3. Yandex.Taxi|lon (0.172329)
 
-4. _OriginalFeature_lat (0.168032)
+4. Yandex.Taxi|lat (0.168032)
 
