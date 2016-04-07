@@ -10,7 +10,7 @@
 
 #Feature ranking:
 
-![](importances.png?raw=true)
+![](https://github.com/justheuristic/Taxathon-results/blob/master/importances.png?raw=true)
 
 1. Chmel_Tolstiy-1001180|A-1639114-No-compiler-OK.csv (0.283449)
 
