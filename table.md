@@ -1,28 +1,24 @@
-| №    | Author | Submission | Contribution Score |
-| ---: | :---:  | :---: | ---: |
-| 1 | justHeuristic-989496 | A-1639435-No-compiler-OK.csv | 283 449 489 |
-| 2 | Yandex.Taxi | dist | 149 512 928 |
-| 3 | Chmel_Tolstiy-1001180 | A-1639114-No-compiler-OK.csv | 122 353 668 |
-| 4 | justHeuristic-989496 | A-1640016-No-compiler-OK.csv | 122 046 174 |
-| 5 | Yandex.Taxi | lon | 101 074 131 |
-| 6 | Yandex.Taxi | lat | 91 752 925 |
-| 7 | Yandex.Taxi | time_of_day_rel | 81 506 118 |
-| 8 | Yandex.Taxi | day_of_week=fri | 4 620 123 |
-| 9 | Yandex.Taxi | day_of_week=tue | 4 429 749 |
-| 10 | Yandex.Taxi | day_of_week=sat | 4 382 111 |
-| 11 | Yandex.Taxi | s_class | 4 232 493 |
-| 12 | Yandex.Taxi | day_of_week=wed | 4 055 579 |
-| 13 | Yandex.Taxi | f_class=vip | 3 999 094 |
-| 14 | Yandex.Taxi | s_class=business | 3 904 720 |
-| 15 | Yandex.Taxi | day_of_week=thu | 3 798 361 |
-| 16 | Yandex.Taxi | day_of_week=mon | 3 757 460 |
-| 17 | Yandex.Taxi | day_of_week=sun | 3 158 205 |
-| 18 | Yandex.Taxi | f_class=econom | 3 004 723 |
-| 19 | Yandex.Taxi | f_class=business | 2 400 963 |
-| 20 | Yandex.Taxi | s_class=vip | 1 207 462 |
-| 21 | Yandex.Taxi | t_class | 670 032 |
-| 22 | Yandex.Taxi | t_class=vip | 660 526 |
-| 23 | Yandex.Taxi | f_class | 22 208 |
-| 24 | Yandex.Taxi | s_class=econom | 747 |
-| 25 | Yandex.Taxi | t_class=business | 0 |
-| 26 | Yandex.Taxi | t_class=econom | 0 |
+| Author | Submission | Contribution Score |
+| :---:  | :---: | ---: |
+| blank_teamname (belyaeva.dr, SKorolS, mike0sv2)-1006106|A-1643006-No-compiler-OK.csv | 105 843 086 |
+| Weak Learners (kings-quest, domaso, Hoderu)-1006154|A-1643011-No-compiler-OK.csv | 92 017 392 |
+| RainMonkeys (GushchinaVarya, qashqay.sol, tarkhoff.andrei)-1006265|A-1643020-No-compiler-OK.csv | 79 486 278 |
+| Kolyan_416 (MironLevkov, kuzmichev_dima, ryad0m)-1006153|A-1642965-No-compiler-OK.csv | 62 958 414 |
+| ВВВ (Вильям Саакян, tilgasergey, Vaness)-1006120|A-1643036-No-compiler-OK.csv | 51 833 398 |
+| Dima_Borzih (Arshak Minasyan, filatovartm, outbreakfury)-1006229|A-1643024-No-compiler-OK.csv | 50 687 884 |
+| КокосВалидация (marat.akhmatnurov, gizdatullindanil, k.n.kuznetsov)-1006256|A-1643007-No-compiler-OK.csv | 50 266 011 |
+| tuple(noob,noob,noob) (emilkayumov, y.kemaev, Артём Попов)-1005970|A-1643001-No-compiler-OK.csv | 45 437 357 |
+| Kolyan_416 (MironLevkov, kuzmichev_dima, ryad0m)-1006153|A-1643019-No-compiler-OK.csv | 42 005 181 |
+| Сенежская (ramly, astiunov, aibek.alanov)-1006195|A-1643010-No-compiler-OK.csv | 38 407 399 |
+| FTW (Vessemer, minibaev.e.m, abuca9268)-1006164|A-1643018-No-compiler-OK.csv | 37 148 269 |
+| КокосВалидация (marat.akhmatnurov, gizdatullindanil, k.n.kuznetsov)-1006256|A-1643000-No-compiler-OK.csv | 36 706 440 |
+| dream_world (reqnv, mealsoul)-1006196|A-1643012-No-compiler-OK.csv | 35 272 983 |
+| from xgboost import * (norpadon, lev-prol, VisualPaul)-1006230|A-1643022-No-compiler-OK.csv | 33 853 492 |
+| _OriginalFeature_lon | 33 318 187 |
+| Valentin-1006052|A-1642890-No-compiler-OK.csv | 32 550 721 |
+| _OriginalFeature_lat | 31 146 032 |
+| ВВВ (Вильям Саакян, tilgasergey, Vaness)-1006120|A-1643017-No-compiler-OK.csv | 31 145 089 |
+| Meh (gleb.posobin, martynov.oleg.mipt, hse.yurboss)-1006037|A-1642981-No-compiler-OK.csv | 29 459 568 |
+| ВВВ (Вильям Саакян, tilgasergey, Vaness)-1006120|A-1642999-No-compiler-OK.csv | 29 306 782 |
+| ВВВ (Вильям Саакян, tilgasergey, Vaness)-1006120|A-1642990-No-compiler-OK.csv | 29 144 181 |
+| Meh (gleb.posobin, martynov.oleg.mipt, hse.yurboss)-1006037|A-1642874-No-compiler-OK.csv | 22 005 846 |
